@@ -36,4 +36,4 @@ This project explores and visualizes data from the "Superstore" dataset, focusin
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/exploratory-data-analysis-superstore.git  
+   git clone https://github.com/lkaba-pro/exploratory-data-analysis-superstore.git  
